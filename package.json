@@ -1,0 +1,17 @@
+{
+  "name": "hapi-ping",
+  "version": "1.0.0",
+  "description": "Simple ping tracking",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Mausenbaum",
+  "engineStrict" : true,
+  "engines": {
+      "node": ">5.0"
+  },
+  "dependencies": {
+    "hapi": "^13.5.0"
+  }
+}
